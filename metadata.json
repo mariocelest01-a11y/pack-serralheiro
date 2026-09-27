@@ -1,0 +1,6 @@
+{
+  "name": "Pack Tesouro do Serralheiro",
+  "description": "Pack com mais de 3000 projetos de serralharia prontos para fabricar e vender em Portugal. Acesso vitalício por apenas 6.90€.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
